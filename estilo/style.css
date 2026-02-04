@@ -1,0 +1,48 @@
+header {
+
+    background-color: #ddd6fe;
+    color: #4c1d95;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    border-radius: 15px;
+
+}
+
+.imagem-produto {
+  width: 100%;
+  max-width: 300px;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
+
+main {
+    
+    font-family: 'poppins', sans-serif;
+    background-color: #f1f5f9;
+    text-align: center;
+    border-radius: 15px;
+    padding: 10px;
+    justify-content: center;
+    display: flex   ;
+}
+
+.box-preco {
+  background-color: #DDD6FE; 
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  margin-top: 20px;
+  max-width: 350px;
+  font-family: 'Poppins', sans-serif;
+  
+}
+
+.box-preco h3 {
+  margin: 10px 0;
+  color: #4C1D95; 
+
+}
+
+
+
